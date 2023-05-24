@@ -5,7 +5,7 @@ This data is collected by running Champsim on the traces of 3rd Data Prefetching
 
 The reuse distances and cache miss ratios we'll use for training are retrieved from the raw data via the clear_data.ipynb file.
 
-In the StatCache folder the outputs of my statcache folders are. 
+In the StatCache folder are the outputs of our stat cache implementation. You can find it in the StatCache folder of the main repository and execute via the run.sh file. 
 
 Raw output data of Champsim runs can be found on https://github.com/MarkRamosS/ce_raw_data
 
